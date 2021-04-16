@@ -1,0 +1,10 @@
+name: GoldmanCustomItems
+main: lee.code.customitems.GoldmanCustomItems
+version: ${project.version}
+api-version: 1.16
+author: Lee
+commands:
+  customitems:
+    description: Main plugin command.
+    permission: ci.command.customitems
+    aliases: [ci]
